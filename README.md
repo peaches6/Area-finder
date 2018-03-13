@@ -1,2 +1,2 @@
 # Area-finder
-Just an area finder. I don't know how to get the ^2 after the answer so yeah...
+Just an area finder.
